@@ -1,1 +1,1 @@
-CREATING DIRECTORIES
+my readdme
